@@ -75,6 +75,6 @@
 
 4 参加するお祭りやイベント名でチーム検索ができる機能
 
-# 画面遷移図
+# 画面遷移図の URL
 
 https://www.figma.com/file/K042OjKcFV26TZi1zj0KHT/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=GTTIWedHPYVVdDSM-1
